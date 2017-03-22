@@ -22,8 +22,6 @@ class PostsController < ApplicationController
 
 
 
-
-
   private
 
   def post_params
